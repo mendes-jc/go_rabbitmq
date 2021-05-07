@@ -1,0 +1,8 @@
+version: "3.5"
+services:
+  rabbit:
+    image: rabbitmq:3.7-management
+    ports:
+      - 5672:5672
+      - 15672:15672
+    container_name: "rabbitmq_go_hello_world"
