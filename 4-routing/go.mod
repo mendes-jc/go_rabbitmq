@@ -1,4 +1,4 @@
-module go_work_queues
+module go_routing
 
 go 1.16
 

@@ -1,4 +1,4 @@
-module go_work_queues
+module go_rabbit_mq_helloworld
 
 go 1.16
 

@@ -1,4 +1,4 @@
-module go_work_queues
+module go_topics
 
 go 1.16
 
